@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8DzJ9b8dRuZxcMuO1jqokEPIlnHu1bNiQAaQUR5PpvQfutbRf1shusZXw97Mn4VliEAV8r0ugWxNYZI+SfuHcQ==",
+  "success": true,
+  "projectFilePath": "D:\\Empowerment Tech\\ConcentrationOfMingMings\\ConcentrationOfMingMings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}

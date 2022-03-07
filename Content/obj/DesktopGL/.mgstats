@@ -1,0 +1,20 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/Catya (1).png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/Catya (1).xnb","TextureProcessor","Texture2DContent",6570,40085,0.2593141
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/Catya.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/Catya.xnb","TextureProcessor","Texture2DContent",41286,5062585,0.430014
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/Choice 2.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/Choice 2.xnb","TextureProcessor","Texture2DContent",1836,11445,0.0260982
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/Choice.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/Choice.xnb","TextureProcessor","Texture2DContent",11018,8294485,0.5780853
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/Choice3.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/Choice3.xnb","TextureProcessor","Texture2DContent",8005,360085,0.0572394
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/Choice4.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/Choice4.xnb","TextureProcessor","Texture2DContent",22064,977425,0.0819028
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/correct.mp3","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/correct.xnb","SongProcessor","SongContent",3554,125,0.7713989
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/Designed Frame 2.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/Designed Frame 2.xnb","TextureProcessor","Texture2DContent",222728,2752885,0.1639005
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/Designed Frame.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/Designed Frame.xnb","TextureProcessor","Texture2DContent",380527,3080085,0.1790168
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/File.spritefont","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/File.xnb","FontDescriptionProcessor","SpriteFontContent",2015,37922,0.2079249
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/FontLarge.spritefont","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/FontLarge.xnb","FontDescriptionProcessor","SpriteFontContent",2015,267298,0.0772951
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/Frame 3.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/Frame 3.xnb","TextureProcessor","Texture2DContent",237316,2752885,0.1562273
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/Frame 4.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/Frame 4.xnb","TextureProcessor","Texture2DContent",236671,3108085,0.1860516
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/Frame.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/Frame.xnb","TextureProcessor","Texture2DContent",5205,3080085,0.2372527
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/JosLop.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/JosLop.xnb","TextureProcessor","Texture2DContent",28062,160085,0.02391
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/Lives 2.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/Lives 2.xnb","TextureProcessor","Texture2DContent",6722,16285,0.0133916
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/Lives 3.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/Lives 3.xnb","TextureProcessor","Texture2DContent",9346,24385,0.0095418
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/Lives.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/Lives.xnb","TextureProcessor","Texture2DContent",4034,8185,0.0057854
+"D:/Empowerment Tech/ConcentrationOfMingMings/Content/MingMing.png","D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/MingMing.xnb","TextureProcessor","Texture2DContent",2614,6485,0.008673

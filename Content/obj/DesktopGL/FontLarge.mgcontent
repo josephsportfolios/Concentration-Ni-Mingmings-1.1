@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Empowerment Tech/ConcentrationOfMingMings/Content/FontLarge.spritefont</SourceFile>
+  <SourceTime>2022-03-04T21:01:53.544231+08:00</SourceTime>
+  <DestFile>D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/FontLarge.xnb</DestFile>
+  <DestTime>2022-03-07T16:56:34.7463384+08:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-11T00:17:54+08:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-11T00:17:54+08:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

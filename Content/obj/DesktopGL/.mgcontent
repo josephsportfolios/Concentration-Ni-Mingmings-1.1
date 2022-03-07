@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/Catya (1).png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/Catya.png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/Choice 2.png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/Choice.png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/Choice3.png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/Choice4.png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/correct.mp3</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/Designed Frame 2.png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/Designed Frame.png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/File.spritefont</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/FontLarge.spritefont</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/Frame 3.png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/Frame 4.png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/Frame.png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/JosLop.png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/Lives 2.png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/Lives 3.png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/Lives.png</File>
+    <File>D:/Empowerment Tech/ConcentrationOfMingMings/Content/MingMing.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

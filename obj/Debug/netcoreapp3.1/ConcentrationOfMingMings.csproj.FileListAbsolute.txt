@@ -1,0 +1,43 @@
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\Catya (1).xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\Catya.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\Choice 2.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\Choice.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\Choice3.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\Choice4.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\Designed Frame 2.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\Designed Frame.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\File.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\FontLarge.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\Frame 3.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\Frame 4.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\Frame.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\JosLop.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\Lives 2.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\Lives 3.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\Lives.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\MingMing.xnb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\ConcentrationOfMingMings.exe
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\ConcentrationOfMingMings.deps.json
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\ConcentrationOfMingMings.runtimeconfig.json
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\ConcentrationOfMingMings.runtimeconfig.dev.json
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\ConcentrationOfMingMings.dll
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\ConcentrationOfMingMings.pdb
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libopenal.so.1
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSDL2-2.0.0.dylib
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\runtimes\osx\native\libopenal.1.dylib
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\SDL2.dll
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
+D:\Empowerment Tech\ConcentrationOfMingMings\obj\Debug\netcoreapp3.1\ConcentrationOfMingMings.csproj.AssemblyReference.cache
+D:\Empowerment Tech\ConcentrationOfMingMings\obj\Debug\netcoreapp3.1\ConcentrationOfMingMings.AssemblyInfoInputs.cache
+D:\Empowerment Tech\ConcentrationOfMingMings\obj\Debug\netcoreapp3.1\ConcentrationOfMingMings.AssemblyInfo.cs
+D:\Empowerment Tech\ConcentrationOfMingMings\obj\Debug\netcoreapp3.1\ConcentrationOfMingMings.csproj.CoreCompileInputs.cache
+D:\Empowerment Tech\ConcentrationOfMingMings\obj\Debug\netcoreapp3.1\ConcentrationOfMingMings.csproj.CopyComplete
+D:\Empowerment Tech\ConcentrationOfMingMings\obj\Debug\netcoreapp3.1\ConcentrationOfMingMings.dll
+D:\Empowerment Tech\ConcentrationOfMingMings\obj\Debug\netcoreapp3.1\ConcentrationOfMingMings.pdb
+D:\Empowerment Tech\ConcentrationOfMingMings\obj\Debug\netcoreapp3.1\ConcentrationOfMingMings.genruntimeconfig.cache
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\correct.ogg
+D:\Empowerment Tech\ConcentrationOfMingMings\bin\Debug\netcoreapp3.1\Content\correct.xnb

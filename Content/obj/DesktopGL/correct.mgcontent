@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Empowerment Tech/ConcentrationOfMingMings/Content/correct.mp3</SourceFile>
+  <SourceTime>2022-03-07T17:43:54.8009327+08:00</SourceTime>
+  <DestFile>D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/correct.xnb</DestFile>
+  <DestTime>2022-03-07T17:44:19.0319167+08:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-11T00:17:54+08:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-11T00:17:54+08:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>D:/Empowerment Tech/ConcentrationOfMingMings/Content/bin/DesktopGL/correct.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
