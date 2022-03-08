@@ -4,8 +4,8 @@ Created by @caitlin, @[daloosai](https://github.com/daloosai), @[JemimahAbalajon
 
 
 ## Progarm Structure
-The main program that runs the game is located at [Game1.cs](https://github.com/josephsportfolios/Concentration-Ni-Mingmings-Code-Base/blob/master/Game1.cs). We are using Monogame and C# as our main framework for our game. We also used these particular frameworks in order to incorporate more complex graphics within our application.<br />
-To run our program from a console, you need to have the Monogame framework and the Visual Studio 2019 version, as Monogame is yet to support Visual Studio 2022. 
+The main program that runs the game is located at [Game1.cs](https://github.com/josephsportfolios/Concentration-Ni-Mingmings-Code-Base/blob/master/Game1.cs). We are using Monogame and C# as our main framework for our game. We also used these particular frameworks in order to incorporate more complex graphics within our application.<br /><br />
+To run our program from a console, you need to have the [Monogame](https://www.monogame.net/downloads/) framework and Visual Studio 2019 version, as Monogame is yet to support Visual Studio 2022. 
 
 ## How to Install
 You can install this game by clicking the Code button then clicking the Download Zip button.
