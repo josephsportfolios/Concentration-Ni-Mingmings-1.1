@@ -2,6 +2,8 @@
 An adventure-filled game full of concentration questions to save Mingming's friends!<br />
 Created by @caitlin, @[daloosai](https://github.com/daloosai), @[JemimahAbalajon](https://github.com/JemimahAbalajon), @[josephsportfolios](https://github.com/josephsportfolios), @kathleen, and @[leyamm](https://github.com/leyamm).
 
+## Main Game
+To play the game without going through Visual Studio, download the files at [Concentration ni Mingmings Ver. 1.2](https://github.com/josephsportfolios/Concentration-ni-Mingmings-1.2).
 
 ## Progarm Structure
 The main program that runs the game is located at [Game1.cs](https://github.com/josephsportfolios/Concentration-Ni-Mingmings-Code-Base/blob/master/Game1.cs). We are using Monogame and C# as our main framework for our game. We also used these particular frameworks in order to incorporate more complex graphics within our application.<br /><br />
@@ -22,9 +24,6 @@ After that, click the Run button or F5.
 
 You can now play the game!
 ![image](https://user-images.githubusercontent.com/100250978/157155622-59d2b48b-7aad-4e18-a530-f69d72cf55bf.png)
-
-## Main Game
-To play the game without going through Visual Studio, download the files at [Concentration ni Mingmings Ver. 1.2](https://github.com/josephsportfolios/Concentration-ni-Mingmings-1.2).
 
 ## Credits
 The sound used in the game is taken from ZapSplat ([Classic Retro Game Jump 3](https://www.zapsplat.com/music/classic-retro-game-jump-tone-3/)).
