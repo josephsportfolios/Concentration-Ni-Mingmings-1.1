@@ -1,6 +1,6 @@
 # Concentration ni Mingmings
 An adventure-filled game full of concentration questions to save Mingming's friends!<br />
-Created by @caitlin, @[daloosai](https://github.com/daloosai), @[JemimahAbalajon](https://github.com/JemimahAbalajon), @[josephsportfolios](https://github.com/josephsportfolios), @kathleen, and @[leyamm](https://github.com/leyamm).
+Created by @caitlin, @[daloosai](https://github.com/daloosai), @[JemimahAbalajon](https://github.com/JemimahAbalajon), @[josephsportfolios](https://github.com/josephsportfolios), @[Kath-Ganda](https://github.com/Kath-Ganda), and @[leyamm](https://github.com/leyamm).
 
 ## Main Game
 To play the game without going through Visual Studio, download the files at [Concentration ni Mingmings Ver. 1.2](https://github.com/josephsportfolios/Concentration-ni-Mingmings-1.2).
